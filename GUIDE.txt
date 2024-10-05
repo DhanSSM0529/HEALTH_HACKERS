@@ -1,0 +1,5 @@
+interfacen - prototype 1 - chatbot type - user input vitals
+proto2 - prototype 2 - data integrated using csv file - type name of the patient from CSV file to view vitals
+hproto - security integrated with personalized remedy recommendations
+       username: admin
+       password: password
